@@ -1,6 +1,6 @@
 # AdaLab
 
-![AdaLab](./assets/ada.png)
+![AdaLab](./assets/Ada.png)
 
 ## What is AdaLab
 Personal cybersecurity and infrastructure laboratory.
