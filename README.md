@@ -1,5 +1,3 @@
-# AdaLab
-
 ![AdaLab](./assets/Ada.png)
 
 ## What is AdaLab
