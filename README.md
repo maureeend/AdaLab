@@ -6,6 +6,7 @@ Personal cybersecurity and infrastructure laboratory.
 This is a HomeLab create by me. You can follow my progress and help me during this path. I will document each step, the goal being to learn. In this repository, you will find all the documentation i will wrote such as the  
 
 ## Roadmap
+![RoadMap](./docs/Roadmap_AdaLab.jpg)
 - [ ] Firewall: OPNsens
 - [ ] 3 VLANs: one for infratrusture, one for the cyber lab, one for IOT/family. 
 - [ ] Proxmox VE
